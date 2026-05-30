@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerfncrypt",
+        "uuid": 4113855,
+        "checksum": "aqyuo5"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
